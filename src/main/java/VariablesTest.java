@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class VariablesTest {
     public static void main(String[] args) {
         float floatVar = 1.2f;
